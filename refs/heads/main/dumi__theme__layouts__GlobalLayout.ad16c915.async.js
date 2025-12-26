@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmobile_more=self.webpackChunkmobile_more||[]).push([[1032],{65507:function(d,e,_){_.r(e);var l=_(48305),m=_.n(l),u=_(75271),o=_(81064),n=function(){var t=(0,o.pC)(),s=(0,o.OI)(),a=m()(s,1),r=a[0];return u.useEffect(function(){document.documentElement.setAttribute("data-prefers-color-scheme",r)},[r]),t};e.default=n}}]);
