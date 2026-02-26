@@ -1,0 +1,10 @@
+"use strict";(self.webpackChunkmobile_more=self.webpackChunkmobile_more||[]).push([[6205],{64647:function(u,d,e){e.r(d);var o=e(98737),i=e(64872),a=e(33455),v=e(23161),E=e(19518),t=e(86699),c=e(38756),h=e(91012),m=e(5022),l=e(30742),s=e(75271),n=e(30854),_=e(52676);function r(){return(0,_.jsx)(m.dY,{children:(0,_.jsx)(s.Suspense,{fallback:(0,_.jsx)(l.Z,{}),children:(0,_.jsx)(_.Fragment,{children:(0,_.jsxs)("div",{className:"markdown",children:[(0,_.jsxs)("h1",{id:"\u5E38\u89C1\u95EE\u9898",children:[(0,_.jsx)("a",{"aria-hidden":"true",tabIndex:"-1",href:"#\u5E38\u89C1\u95EE\u9898",children:(0,_.jsx)("span",{className:"icon icon-link"})}),"\u5E38\u89C1\u95EE\u9898"]}),(0,_.jsxs)("h2",{id:"\u90E8\u5206\u673A\u578B\u8F6F\u952E\u76D8\u5F39\u8D77\u6321\u4F4F\u539F\u6765\u7684\u89C6\u56FE",children:[(0,_.jsx)("a",{"aria-hidden":"true",tabIndex:"-1",href:"#\u90E8\u5206\u673A\u578B\u8F6F\u952E\u76D8\u5F39\u8D77\u6321\u4F4F\u539F\u6765\u7684\u89C6\u56FE",children:(0,_.jsx)("span",{className:"icon icon-link"})}),"\u90E8\u5206\u673A\u578B\u8F6F\u952E\u76D8\u5F39\u8D77\u6321\u4F4F\u539F\u6765\u7684\u89C6\u56FE"]}),(0,_.jsxs)("p",{children:[(0,_.jsx)("code",{children:n.texts[0].value}),n.texts[1].value,(0,_.jsx)("code",{children:n.texts[2].value}),n.texts[3].value]}),(0,_.jsx)("p",{children:(0,_.jsx)("code",{children:n.texts[4].value})}),(0,_.jsx)(t.Z,{lang:"typescript",children:n.texts[5].value})]})})})})}d.default=r},30854:function(u,d,e){e.r(d),e.d(d,{texts:function(){return o}});const o=[{value:"android",paraId:0,tocIndex:1},{value:" \u5F39\u51FA\u952E\u76D8\u6539\u53D8\u89C6\u7A97\u5927\u5C0F\uFF0C\u5BFC\u81F4\u8F93\u5165\u5143\u7D20\u4E0D\u5728\u89C6\u7A97\u5185\u3002\u53EF\u4EE5\u5728\u9879\u76EE\u5165\u53E3\u8C03\u7528\u4E0B\u9762 ",paraId:0,tocIndex:1},{value:"hook",paraId:0,tocIndex:1},{value:" \u89E3\u51B3\uFF1A",paraId:0,tocIndex:1},{value:"src/main.ts",paraId:1,tocIndex:1},{value:`import { useResizeInputScrollIntoView } from 'mobile-more'
+
+function App(){
+  useResizeInputScrollIntoView();
+
+  return (
+    // ...
+  )
+}
+`,paraId:2,tocIndex:1}]}}]);
